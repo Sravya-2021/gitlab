@@ -6,3 +6,5 @@ Feature 2 work
 
 Git push sends local commits to GitHub.
 Git pull brings changes from GitHub to the local repository.
+
+GitHub Actions automates CI/CD workflows.
